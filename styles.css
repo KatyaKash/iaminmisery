@@ -6,3 +6,9 @@ a:hover{
 	color: red;
 	text-decoration: underline;
 }
+a {
+	color: red;
+}
+a:hover {
+	text-decoration: none;
+}/*все ссылки выбираются*/
