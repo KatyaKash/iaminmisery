@@ -1,7 +1,8 @@
-
 h2 {
 	font-size: 20px;
+	color: blue;
 }
 h2 {
-	font-size: 30px;
-}/*30 px*/
+	font-style: italic;
+	color: red;
+}/*red italic*/
