@@ -2,6 +2,7 @@
 	height: 400px;
 	width: 400px;
 	border: 1px solid blue;
+	border-style: dashed;
 }
 #child{
 	height: 300px;
