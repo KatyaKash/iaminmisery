@@ -1,4 +1,12 @@
-li:not(:first-child, :last-child){
-	color: skyblue;
-	font-family:Comic Sans MS;
+#parent{
+	width:180px;
+	height: 160px;
+	border: 1px solid orange;
+}
+#child{
+	width: 140px;
+	height: 45px;
+	border: 1px solid blue;
+	border-style: dashed;
+	margin: 20px 35px 155px 5px; 
 }
