@@ -1,3 +1,4 @@
-p:only-of-type{
-	color: pink;
+li:not(.elem){
+	color: skyblue;
+	font-family:Comic Sans MS;
 }
