@@ -1,12 +1,12 @@
 #parent{
-	width:160px;
-	height: 140px;
+	width:340px;
+	height: 120px;
 	border: 1px solid orange;
 }
 #child{
-	width: 90px;
+	width: 180px;
 	height: 40px;
 	border: 1px solid blue;
 	border-style: dashed;
-	margin: 80px 30px 35px; 
+	margin: 25px 80px 35px; 
 }
