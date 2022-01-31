@@ -1,12 +1,19 @@
 #parent{
-	height: 400px;
+	height: 300px;
 	width: 400px;
 	border: 1px solid blue;
 	border-style: dashed;
 }
 #child{
-	height: 300px;
-	width: 300px;
-	border: 1px solid yellow;
-	margin: 30px;
+	height: 240px;
+	width: 340px;
+	border: 1px solid green;
+	border-style: dashed;
+	margin: 25px;
+}
+#um{
+	height: 180px;
+	width: 280px;
+	border: 1px solid red;
+	margin: 25px;
 }
