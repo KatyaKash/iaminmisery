@@ -1,8 +1,5 @@
-.block a.zzz{
-	color: red;
+#elem {
+	width:  200px;
+	height: 200px;
+	background-color: #7e89eb;
 }
-/*выбираются ссылки относящиеся к классу ззз из элемента класса блок*/
-.block a.zzz:hover {
-	text-decoration: none;
-}/*выбираются ссылки относящиеся к классу ззз из элемента класса блок 
-на которые наведена мышь*/
