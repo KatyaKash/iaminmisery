@@ -1,4 +1,7 @@
-li:not(:first-child, :last-child){
-	color: skyblue;
-	font-family:Comic Sans MS;
+#elem {
+	border-width: 5px;
+	border-color: blue;
+	border-style: solid;
+	width: 300px;
+	height: 200px;
 }
