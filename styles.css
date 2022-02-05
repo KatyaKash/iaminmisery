@@ -1,5 +1,8 @@
 #elem {
-	width:  200px;
-	height: 200px;
-	background-color: #7e89eb;
+	width: 300px;
+    height: 200px;
+    background-color: #4dee99;
+    color: white; 
+	font-size: 30px;
+    text-align: center;  
 }
