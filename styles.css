@@ -1,4 +1,0 @@
-li:not(:first-child, :last-child){
-	color: skyblue;
-	font-family:Comic Sans MS;
-}
