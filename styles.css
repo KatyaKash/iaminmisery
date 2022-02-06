@@ -1,6 +1,15 @@
-#elem{
-	padding: 45px;
-	width: 200px;
+#e{
+	width: 500px;
+	border: 1px solid green;
+	padding: 20px;
+	margin-bottom: 30px;
+	text-align: justify;
+}
+#b{
+	margin: 50px;
+	width: 300px;
 	border: 1px solid red;
+	padding: 10px;
+	margin-left: 50px;
 	text-align: justify;
 }
