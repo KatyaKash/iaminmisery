@@ -1,0 +1,21 @@
+#p{
+	border: 1px solid red;
+}
+#c1{
+	border: 1px solid green;
+	width: 100px;
+	height: 100px;
+	margin: 10px auto;
+}
+#c2{
+	border: 1px solid green;
+	width: 200px;
+	height: 100px;
+	margin: 10px auto;
+}
+#c3{
+	border: 1px solid green;
+	width:300px;
+	height: 100px;
+	margin: 10px auto;
+}
