@@ -8,7 +8,7 @@
 }
 .c2{
 	position: absolute;
-	top: 120px;
+	top: 50px;
 	left: 120px;
 	border: 1px solid blue;
 	width: 50px;
@@ -16,7 +16,7 @@
 }
 .c3{
 	position: absolute;
-	top: 190px;
+	top: 50px;
 	left: 190px;
 	border: 1px solid green;
 	width: 50px;
