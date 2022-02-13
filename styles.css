@@ -1,24 +1,24 @@
 .c1{
+	background-color: #FF8888;
 	position: absolute;
 	top: 50px;
 	left: 50px;
-	border: 1px solid red;
 	width: 50px;
 	height: 50px;
 }
 .c2{
 	position: absolute;
+	background-color: #7E89EB;
 	top: 80px;
 	left: 80px;
-	border: 1px solid blue;
 	width: 50px;
 	height: 50px;
 }
 .c3{
+	background-color: #4DEE99;
 	position: absolute;
 	top: 110px;
 	left: 110px;
-	border: 1px solid green;
 	width: 50px;
 	height: 50px;
 }
