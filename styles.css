@@ -1,5 +1,6 @@
 .parent{
 	display: flex;
+	flex-direction: column;
 
 	margin: 10px auto;
 	height: 400px;
@@ -8,7 +9,7 @@
 }
 .child{
 width: 120px;
-height: 70px;
+height: 60px;
 border: 1px solid green;
 
 
