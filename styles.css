@@ -1,0 +1,17 @@
+div{
+	border: 1px solid black;
+	width: 600px;
+	margin: 10px auto;
+	text-align: justify;
+	padding:0px 20px;
+}
+#i1{
+float: left;
+margin-top: 20px;
+margin-right: 20px;
+}
+#i2{
+	float: right;
+	margin-left: 20px;
+	margin-top: 20px;
+}
