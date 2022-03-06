@@ -1,19 +1,14 @@
 #menu {
     display: flex;
-    flex-direction: column;
-    width: 300px;
+    background-color: #16A177;
 }
 #menu a {
     font: 16px Arial;
-    padding: 10px 25px;
-    box-sizing: border-box;
-    margin-bottom: 10px;
-    border: 1px solid #16A177;
-    background-color: #16A177;
+    padding: 15px 40px;
+    
     color: white;
     text-decoration: none;
 }
 #menu a.active,#menu a:hover  {
-    background-color: white;
-    color: #16A177;
+    background-color: #16785C;
 }
