@@ -1,6 +1,6 @@
 .parent {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
     align-items: stretch;
 
@@ -11,6 +11,6 @@
 }
 .child {
     border: 1px solid green;
-    width: 120px;
-   
+    
+    height: 60px;
 }
