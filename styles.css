@@ -1,0 +1,19 @@
+.parent {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    margin: 20px auto;
+    border: 1px solid red;
+    width: 900px;
+    height: 400px;
+}
+.child {
+    border: 1px solid green;
+    width: 120px;
+    height: 60px;
+}
+#s{
+align-self: flex-end;
+}
