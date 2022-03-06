@@ -1,11 +1,13 @@
 #menu {
     display: flex;
+    flex-direction: column;
+    width: 300px;
 }
 #menu a {
-    font: 14px Arial;
+    font: 16px Arial;
     padding: 10px 25px;
     box-sizing: border-box;
-    margin-right: 10px;
+    margin-bottom: 10px;
     border: 1px solid #16A177;
     background-color: #16A177;
     color: white;
