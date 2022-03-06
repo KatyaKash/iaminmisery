@@ -1,0 +1,40 @@
+#wrapper{
+    margin: 100px auto;
+    border: 1px solid black;
+    width: 700px;
+    text-align: justify;
+}
+#menu{
+    display: flex;
+    background-color: #484848;
+
+}
+#menu a{
+    color: white;
+    font:bold 14px Arial;
+    padding: 10px 25px;
+    text-decoration: none;
+}
+#menu a:hover, #menu a.active{
+        background-color: white;
+        color: #484848;
+}
+a{
+    font-weight: bold;
+    color: blue;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color: green;
+}
+p{
+    text-align: justify;
+    padding: 0px 10px;
+    margin-bottom: 5px;
+    font: 17px/20px Times New Roman;
+}
+h1{
+    text-align: center;
+    margin-bottom: 10px;
+}
