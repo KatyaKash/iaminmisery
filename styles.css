@@ -2,7 +2,7 @@
     display: flex;
     flex-direction: row;
     justify-content: center;
-    align-items: center;
+    align-items: stretch;
 
     margin: 20px auto;
     border: 1px solid red;
@@ -12,8 +12,7 @@
 .child {
     border: 1px solid green;
     width: 120px;
-    height: 60px;
 }
 #s{
-align-self: flex-end;
+align-self: center;
 }
